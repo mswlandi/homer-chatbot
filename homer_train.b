@@ -2291,7 +2291,7 @@ marge, anyone can miss canada... all tucked away down there.
 well, i've had just about enough of your vassar bashing young lady.
 why you little...
 really? wow.
-kids are so naïve. lisa, when you get to be our age, you'll learn a few things, like when a sign says "do not feed the bears," man, you'd better not feed the bears. now get to school, boy.
+kids are so naÃ¯ve. lisa, when you get to be our age, you'll learn a few things, like when a sign says "do not feed the bears," man, you'd better not feed the bears. now get to school, boy.
 man, these are primo seats. i could really go for a hot dog.
 woo hoo!
 oh, right.
@@ -2338,7 +2338,7 @@ i'll make you a deal. you rip up that ticket, and i'll give you back your hat. w
 what're you gonna do about it? what're you gonna do? ooh, i'm officer marge, i'm gonna arrest you! whoa! etc. whuh! marge, not here. hey, you're not really arresting me...?
 i choose to waive that right.
 lemme just finish this last lobster tail and raspberry torte.
-i have nothing more to say to you, marge. i'm drawing a line down the center of the house à la "i love lucy" -- you stay on your side and i'll stay on my side.
+i have nothing more to say to you, marge. i'm drawing a line down the center of the house Ã  la "i love lucy" -- you stay on your side and i'll stay on my side.
 all right guys, pipe down. i've got some more in the garage.
 hmm... i wonder why he's so eager to go to the garage.
 well, what do you call it?
@@ -3791,7 +3791,7 @@ hm.
 well, our little girl has a gift and we're willing to do what it takes to help her.
 i'll give ya fifty bucks.
 seventy-five.
-excellente! muchas gracias, señorata!
+excellente! muchas gracias, seÃ±orata!
 ah so.
 you do that.
 dad, what are you doin' here?
@@ -5235,7 +5235,7 @@ wow, a val-u-qual coupon book! let's see. ten percent off carpet cleaning. ten! 
 yeah, but there's two!
 oh, marge. that's just a trick to get you in there so they can cure your foot pain.
 see ya, kids. me and my val-u-qual book are gonna paint the town red... with savings! i'll start with a couple of pizzas, then a complimentary tango lesson and i'll cap it off with a smooth, refreshing colonic.
-do you like piña colonics / and getting caught in the rain...
+do you like piÃ±a colonics / and getting caught in the rain...
 they won't?
 no.
 really?
@@ -5522,7 +5522,7 @@ he called me "greenhorn." i called him tony randall. it was a thing we had.
 oh yes he will! and on time, too!
 i've got to, honey. i owe it to ol' red, as both his friend and his killer.
 don't you have school?
-ah, touché. bye, marge! aren't you gonna say bye?
+ah, touchÃ©. bye, marge! aren't you gonna say bye?
 that didn't sound like you meant it.
 that's more like it. so long, suckers!
 oh, yeah? my left arm says different.
@@ -5927,7 +5927,7 @@ okay.
 hm. this pea soup is as weak as the acting, and nowhere near as hammy.
 the other critics told me to be mean. and you should always give in to peer pressure.
 always.
-well, i hope you cut me better than you did these string beans. hm, i seem to be missing a piece of my ear. touché!
+well, i hope you cut me better than you did these string beans. hm, i seem to be missing a piece of my ear. touchÃ©!
 mm. sorry, marge. i'm afraid this gets my lowest rating ever, seven thumbs up.
 marge, i'm sorry, but your cooking's only got two moves: "shake" and "bake."
 people change, marge. my palate has grown more sophisticated.
@@ -7369,7 +7369,7 @@ why are you here?
 but i wanna!
 what's happening? did i crush your corporation?
 me so hungee.
-so hard to resist. mesquite-grilled onions... jalapeño relish... wait a minute, those are southwestern ingredients!
+so hard to resist. mesquite-grilled onions... jalapeÃ±o relish... wait a minute, those are southwestern ingredients!
 tell the truth! c'mon, everybody!
 don't listen to him, duffman. for once in your life, stand up for the little guy!
 the truth never tasted so good!
@@ -8855,8 +8855,8 @@ how 'bout before?
 you call this a bicameral legislature? i say, i say... my groin!
 that's right. over the homes of poor people.
 oh, we'll be upstairs, in the bedroom making love... ly rope ladders in case there's a fire.
-children, so naïve.
-i didn't say anything. so naïve.
+children, so naÃ¯ve.
+i didn't say anything. so naÃ¯ve.
 oh my darling, nothing is too romantic for you. have some more liquor. that's it, drink up my pretty.
 but it's st. valentine's day! god wants us to do it.
 well, my special mix tape will get you going. oh, no! that's maggie's mix tape! then maggie must have gotten...
@@ -8972,7 +8972,7 @@ way ahead of you.
 i see.
 marge, please. let's not fight in front of the kids. just secretly hate me the way you always have.
 why you little...!
-you noticed! i've been using lancôme.
+you noticed! i've been using lancÃ´me.
 well, i'd better go. but before i do, marge, there's something i want to ask you.
 how much do you tip a leg waxer? i need to know by tomorrow!
 the kids are cool, but marge is still judging me.
@@ -12618,7 +12618,7 @@ just so you know, you're making a pretty bad first impression.
 you idiot! how am i ever going to find the key to the... ooh, here it is! to get the key i have to lick through a lollipop? oh, how awful. what the?
 whose side are you on?
 what's fun about fire ants? they're-- oh, you're being sarcastic.
-thank you, that's very... more sarcasm. just see that my fiancée marge gets this -- my wedding vows.
+thank you, that's very... more sarcasm. just see that my fiancÃ©e marge gets this -- my wedding vows.
 i'm not sure what happened. i was kidnapped, then tortured, then i fell into a surprisingly sound sleep. when i awoke, i felt refreshed. then i was blindfolded, and two sobbing trolls threw me out of a van onto our lawn.
 won't it dry up in a few days and fall off in the bath?
 i'm sorry, honey. i wanted so badly to give you a fancy wedding.
@@ -12952,8 +12952,8 @@ don't worry, sweetie. with me at your side, our toast will do just what it's sup
 she's not my girlfriend. she's a girl who i married, who used to be my friend.
 "today is your lucky day." yeah, pfft!
 hey, any part of a cookie you can't eat is just a waste of time--
-...yo no creía en fortunas, pero entonces me salió una galleta...
-...que decía que hoy era mi día dichoso. primero no lo creí, pero entonces me caí contra la maquina de dulces, ay, ay, ay!
+...yo no creÃ­a en fortunas, pero entonces me saliÃ³ una galleta...
+...que decÃ­a que hoy era mi dÃ­a dichoso. primero no lo creÃ­, pero entonces me caÃ­ contra la maquina de dulces, ay, ay, ay!
 i'm almost there... i can see the church steeple in the distance... uh-oh, here comes a train.
 tickets, please. hey, where's your ticket? leave me alone! why you little...
 no time to pretend we're friends! lotto me! one, six, seventeen, twenty-two, twenty-four, thirty-five. i did it! i'm gonna make it!
@@ -13269,7 +13269,7 @@ stupid kid, fooled by a silhouette.
 marge, the bathroom scale is lying again.
 it's like you're a chinese empress!
 and i'm not a locksmith! man, that dude does not like bart.
-mexico! andalé! andalé! arriba!
+mexico! andalÃ©! andalÃ©! arriba!
 help us! help us, for the love of god! won't somebody help us?!
 uh yes, i'd like... um... how do you say taco in mexican?
 yes, that's exactly the word i want to translate.
@@ -14201,7 +14201,7 @@ a common misconception. suck it, karma! yeah! i'm talkin' to you, karma! karma's
 not just the laundry... that would be weird, and you might ask questions. i wanna do all the chores! don't yell at me, brain! this happened on your watch! you have two jobs: thinking and bladder control! i like to watch lamar odom play x-box while his giant wife yells at him. is that so nuts? huh? yeah, shut you up. now, i'm sure yesterday's incident of urination domination was a one-time deal. but just to make sure...
 but isn't karma just an expression of the dharma?
 deep down, i must be feeling guilty about getting my friends in trouble! and my problem won't stop till i make things right with them. but first, a little more sleep.
-i'm sorry. cheese on that? sorry. hey, lenny. sorry. one more announcement: make sure you whack "piñata me" and not real me.
+i'm sorry. cheese on that? sorry. hey, lenny. sorry. one more announcement: make sure you whack "piÃ±ata me" and not real me.
 so, i gotta know... do you guys forgive me?
 free? uh... free it is!
 um, uh... probably just the fire alarm -- try to go back to sleep. you stupid...

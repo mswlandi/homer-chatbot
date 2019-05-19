@@ -13,10 +13,10 @@ database = database.drop('word_count', 1)
 database = database.values.tolist()
 
 
-fileA = open('homer_train.a', 'w')
-fileB = open('homer_train.b', 'w')
-fileAt = open('homer_test.a', 'w')
-fileBt = open('homer_test.b', 'w')
+fileA = open('homer_train.a', 'w', encoding='utf-8')
+fileB = open('homer_train.b', 'w', encoding='utf-8')
+fileAt = open('homer_test.a', 'w', encoding='utf-8')
+fileBt = open('homer_test.b', 'w', encoding='utf-8')
 homer = 2
 counter = 0
 for i in range(len(database)):
