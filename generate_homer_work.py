@@ -64,7 +64,7 @@ for i in range(len(database)):
             if len(falaB.strip()) == 0:
                 continue
             counter += 1
-            if counter <= 1000:
+            if counter % 5 == 0:
                 fileAt.write(falaA.lower() + '\n')
                 fileBt.write(falaB.lower() + '\n')
             else:
