@@ -12,65 +12,69 @@ database = database.drop('normalized_text', 1)
 database = database.drop('word_count', 1)
 database = database.values.tolist()
 
-
-fileA = open('homer_train.a', 'w', encoding='utf-8')
-fileB = open('homer_train.b', 'w', encoding='utf-8')
-fileAt = open('homer_test.a', 'w', encoding='utf-8')
-fileBt = open('homer_test.b', 'w', encoding='utf-8')
+listQuestions = list()
+listAnswers = list()
 homer = 2
-counter = 0
+numberHomerAnswers = 0
 for i in range(len(database)):
-    if database[i][1] == True:
-        if database[i][2] == 2:
-            j = i-1
-            episode = database[j][0]
-            character = database[j][2]
-            location = database[j][3]
-            if episode != database[i][0]:
-                continue
-            if character == '':
-                continue
-            if character == homer:
-                continue
-            if location != database[i][3]:
-                continue
-            falaA = database[j][4]
-            while True:
-                j -= 1
-                if database[j][0] != episode:
-                    break
-                if database[j][1] != True:
-                    break
-                if database[j][2] != character:
-                    break
-                if database[j][3] != location:
-                    break
-                falaA = database[j][4] + ' ' + falaA
-            j = i
-            falaB = database[j][4]
-            while True:
-                j += 1
-                if database[j][0] != episode:
-                    break
-                if database[j][1] != True:
-                    break
-                if database[j][2] != homer:
-                    break
-                if database[j][3] != location:
-                    break
-                falaB = falaB + ' ' + database[j][4]
-            if len(falaA.strip()) == 0:
-                continue
-            if len(falaB.strip()) == 0:
-                continue
-            counter += 1
-            if counter % 5 == 0:
-                fileAt.write(falaA.lower() + '\n')
-                fileBt.write(falaB.lower() + '\n')
-            else:
-                fileA.write(falaA.lower() + '\n')
-                fileB.write(falaB.lower() + '\n')
-fileA.close()
-fileB.close()
-fileAt.close()
-fileBt.close()
+    episode = database[i][0]
+    location = database[i][3]
+    characterQuestion = database[i-1][2]
+    characterAnswer = database[i][2]
+    if characterQuestion == '':
+        continue
+    if characterAnswer == '':
+        continue
+    if characterQuestion == characterAnswer:
+        continue
+    question = ''
+    j = i-1
+    while True:
+        if database[j][0] != episode:
+            break
+        if database[j][1] != True:
+            break
+        if database[j][2] != characterQuestion:
+            break
+        if database[j][3] != location:
+            break
+        question = database[j][4] + ' ' + question
+        j -= 1
+    j = i
+    answer = ''
+    while True:
+        if database[j][0] != episode:
+            break
+        if database[j][1] != True:
+            break
+        if database[j][2] != characterAnswer:
+            break
+        if database[j][3] != location:
+            break
+        answer = answer + ' ' + database[j][4]
+        j += 1
+        if j > len(database):
+            break
+    if len(question.strip()) == 0:
+        continue
+    if len(answer.strip()) == 0:
+        continue
+    if characterAnswer == homer:
+        numberHomerAnswers += 1
+        listQuestions = [question] + listQuestions
+        listAnswers = [answer] + listAnswers
+    else:
+        listQuestions = listQuestions + [question]
+        listAnswers = listAnswers + [answer]
+        
+fileQuestions = open('questions.txt', 'w', encoding='utf-8')
+for question in listQuestions:
+    fileQuestions.write(question.lower() + '\n')
+fileQuestions.close()
+
+fileAnswers = open('answers.txt', 'w', encoding='utf-8')
+for answer in listAnswers:
+    fileAnswers.write(answer.lower() + '\n')
+fileAnswers.close()
+
+print(numberHomerAnswers)
