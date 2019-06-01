@@ -38,7 +38,10 @@ for i in range(len(database)):
             break
         if database[j][3] != location:
             break
-        question = database[j][4] + ' ' + question
+        if question == '':
+            question = database[j][4]
+        else:
+            question = database[j][4] + ' ' + question
         j -= 1
     j = i
     answer = ''
@@ -51,7 +54,10 @@ for i in range(len(database)):
             break
         if database[j][3] != location:
             break
-        answer = answer + ' ' + database[j][4]
+        if answer == '':
+            answer = database[j][4]
+        else:
+            answer = answer + ' ' + database[j][4]
         j += 1
         if j > len(database):
             break
