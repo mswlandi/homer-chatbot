@@ -1,6 +1,5 @@
 # homer-chatbot
-A ChatBot made to imitate Homer Simpson, using tf-seq2seq
+A ChatBot made to imitate Homer Simpson, using tf-seq2seq and doc2vec.
+This was made as a final work project for the Formal Languages and Automata class, at UFRGS.
 
-## How?
-We used the "[Simpsons by the Data](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data#simpsons_script_lines.csv)" dataset, which contains script lines from approximately 600 episodes, to train a seq2seq model that imitates homer simpson.
-~~if everything goes wrong, we will use a doc2vec model~~
+The results, as well as a cool presentation of the project as a whole, can be found at the project's Google Colab Notebook.
