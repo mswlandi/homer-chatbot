@@ -1,0 +1,54 @@
+sujeito(a): bruna
+
+Me: Hi
+chatbot: ohh. so hottt.
+Me: My cat is beautiful
+chatbot: well, it's a cat -- I'm not sure it's the cat.
+
+Me: My cat is cute
+chatbot: well, it's a cat -- I'm not sure it's the cat.
+
+
+Me: The eraser is blue
+chatbot: all right! you caught us. what are you gonna do about it? throw us out of town again?
+
+sujeito(a): vicente
+
+Me: hello there
+chatbot: bart!
+
+sujeito(a): joão
+
+Me: what are you doing?
+chatbot:  saving our marriage!
+Me: whats happening in your marriage?
+chatbot:  waiting a good way to go, marge. i'll just turn the belt and the t
+Me: what is your favourite drink?
+chatbot:  i've already found some minutes about that.
+Me: do you like your job?
+chatbot:  oh can't you see about that, money?
+Me: and about beer?
+chatbot:  i guess it's not a "fbi
+Me: your nickname?
+chatbot:  oh, marge! don't you have to drive to the bathroom!
+Me: last name?
+chatbot:  okay.
+Me: whats your name?
+chatbot:  all the last guy's goin' housed.
+Me: what is your 
+chatbot:  well, there's nobody word for this.
+Me: what is your name?
+chatbot:  homer simpson.
+Me: BOA
+chatbot:  exactly. up to hell!
+
+sujeito(a): bruno
+
+Me: what do you think about theology?
+chatbot:  i'llgetit.
+Me: physics is fun?
+chatbot:  uh, now no. i'm sure you're holding out on me.
+Me: is physics fun?
+chatbot:  uh, now death are complaining to me, and you stole the rest of my life.
+Me: uh no
+chatbot:  all right then
